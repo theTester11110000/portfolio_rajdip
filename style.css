@@ -716,8 +716,11 @@ sup{
 
 
 
-
-
+   @media (max-width: 1609px) {
+      #main{
+          display: none; 
+      }
+   }
 
    @media (max-width: 786px) {
      #nav ul li{
